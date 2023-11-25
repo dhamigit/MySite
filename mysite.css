@@ -1,0 +1,17 @@
+.id1 {
+    text-align: left;
+}
+.id2 {
+    width: fit-content;
+    background-color: red;
+}
+#id3 {
+    width: 20%;
+    height: 100px;
+}
+.id4 {
+    color: white;
+}
+#id5 {
+    background-color: green;
+}
